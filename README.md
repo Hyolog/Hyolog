@@ -1,5 +1,5 @@
 
-## <center>Hi there 👋, I'M Dea-Hyeon Kang</center>
+## <div align=center>Hi there 👋, I'M Dea-Hyeon Kang</div>
 
 <div align=center>
 I work at XLGaems as a Platform Developer who uses .NET Framework.
