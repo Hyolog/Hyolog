@@ -1,8 +1,8 @@
-<center>
-### Hi there 👋, I'M Dea-Hyeon Kang
+<div align=center>
+  ### Hi there 👋, I'M Dea-Hyeon Kang
 ---
 I work at XLGaems as a Platform Developer who uses .NET Framework.
-</center>
+</div>
 
 <center>
 === 
