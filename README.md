@@ -4,7 +4,7 @@
 <div align=center>I'm deahyeon kang, a full stack .NET developer 💻 from Korea.</div>
 
 
-<img align="right" alt="PNG" src="https://github.com/Hyolog/Hyolog/blob/main/myLineDrawing.png?raw=true" width="300" height="400" />
+<img align="right" alt="PNG" src="https://github.com/Hyolog/Hyolog/blob/main/myLineDrawing.png?raw=true" width="240" height="320" />
 
 
 **Now**
