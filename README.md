@@ -15,7 +15,7 @@
 
 **Skill**
 
-[![CSharp Badge](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)]
+(https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
 [![.NET Badge](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)]
 [![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual-Studio)]
 [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code)]
@@ -24,6 +24,4 @@
 [![SQLite Badge](https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=SQLite)]
   
 
-<div align=center>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyolog%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
