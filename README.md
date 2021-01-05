@@ -15,14 +15,15 @@
 
 **Skill**
 
-[![](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)]
-[![.NET Badge](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)]
-[![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual-Studio)]
-[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code)]
-[![GitLab Badge](https://img.shields.io/badge/-GitLab-%23FCA121?style=for-the-badge&logo=GitLab)]
-[![MSSQL Badge](https://img.shields.io/badge/-MSSQL-%23CC2927?style=for-the-badge&logo=Microsoft-SQL-Server)]
-[![SQLite Badge](https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=SQLite)]
-  
+<img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp" />
+<img src="https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET" />
+<img src="https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual-Studio" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code" />
+<img src="https://img.shields.io/badge/-GitLab-%23FCA121?style=for-the-badge&logo=GitLab" />
+<img src="https://img.shields.io/badge/-MSSQL-%23CC2927?style=for-the-badge&logo=Microsoft-SQL-Server" />
+<img src="https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=SQLite" />
+
 
 
 
