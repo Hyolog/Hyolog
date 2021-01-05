@@ -15,7 +15,7 @@
 
 **Skill**
 
-(https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
+[(https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)]
 [![.NET Badge](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)]
 [![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual-Studio)]
 [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code)]
