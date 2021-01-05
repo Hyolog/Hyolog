@@ -1,16 +1,17 @@
 
-## <div align=center>Hi there 👋, I'M Dea-Hyeon Kang</div>
+## <div align=center>Hi there 👋</div>
 
-<div align=center>
-I work at XLGaems as a Platform Developer who uses .NET Framework.
-</div>
+<div align=center>I'm deahyeon kang, a full stack .NET developer 💻 from Korea.</div>
 
+<img align="right" alt="PNG" src="https://github.com/Hyolog/Hyolog/blob/main/myLineDrawing.png?raw=true" width="300" height="400" />
+  
+**Now**
+- I'm work at XLGames as a platform developer;
+- I'm learning Python;
+- I'm interested in marchine learning & deep learning
 
----
+**Skill**
 
-
-<div align=center>
-Here is my stack
 
 
 
