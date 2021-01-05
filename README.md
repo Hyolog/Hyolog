@@ -11,10 +11,8 @@
 - I'm work at XLGames as a platform developer;
 - I'm learning Python;
 - I'm interested in marchine learning & deep learning;
-- <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
 
 **Skill**
-![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
 <img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET" />
