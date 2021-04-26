@@ -21,4 +21,4 @@
 <img src="https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=SQLite" />
 
 **Stats**
-[! [Hyolog GitHub Stats] (https://github-readme-stats.vercel.app/api ? username = Hyolog & show_icons = true & theme = merko  )] (https://github.com/anuraghazra/github-readme-stats)
+[![Hyolog GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyolog&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
