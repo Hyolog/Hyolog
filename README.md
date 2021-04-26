@@ -3,14 +3,10 @@
 
 <div align=center>I'm deahyeon kang, a full stack .NET developer 💻 from Korea.</div>
 
-
-<img align="right" alt="PNG" src="https://github.com/Hyolog/Hyolog/blob/main/myLineDrawing.png?raw=true" width="240" height="320" />
-
-
 **Now**
 - I'm work at XLGames as a platform developer;
-- I'm learning Python;
-- I'm interested in marchine learning & deep learning;
+- I'm interested in C#, .NET, Windows and Microsoft;
+- I'm interested in developing necessary Windows apps and mobile apps;
 
 **Skill**    
 <img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp" />
@@ -23,3 +19,6 @@
 <img src="https://img.shields.io/badge/-GitLab-%23FCA121?style=for-the-badge&logo=GitLab" />
 <img src="https://img.shields.io/badge/-MSSQL-%23CC2927?style=for-the-badge&logo=Microsoft-SQL-Server" />
 <img src="https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=SQLite" />
+
+**Stats**
+[! [Hyolog GitHub Stats] (https://github-readme-stats.vercel.app/api ? username = Hyolog & show_icons = true & theme = merko  )] (https://github.com/anuraghazra/github-readme-stats)
