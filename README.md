@@ -22,6 +22,5 @@
 </p>
 <br/><br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hyolog&show_icons=true&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyolog&show_icons=true&locale=en&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Hyolog&show_icons=true&theme=merko&include_all_commits=true&count_private&bg_color=DEG,0a0f0b,2a3609,0a0f0b"/>
 </p>
