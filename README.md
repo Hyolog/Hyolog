@@ -21,5 +21,7 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 </p>
 <br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Hyolog&show_icons=true&theme=merko" alt="hyolog" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyolog&show_icons=true&locale=en&layout=compact" alt="hyolog" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hyolog&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyolog&show_icons=true&locale=en&layout=compact"/>
+</p>
