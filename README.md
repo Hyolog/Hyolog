@@ -1,10 +1,8 @@
 
 
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">Now I'm🙏</h3>
-<h4 align="center">Software Engineer @ ebayKorea</h4>
+<h1 align="center">Hi 👋</h1>
+<h4 align="center">I'm Software Engineer @ ebayKorea</h4>
 <h4 align="center">Interested in C#, .NET, Windows and Microsoft</h4>
-<h4 align="center">Studying Java & Spring framework</h4>
 <br/>
 <h3 align="center">Tech Stack🧐</h3>
 <p align="center"> 
